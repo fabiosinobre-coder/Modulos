@@ -8,3 +8,4 @@ def reverse(s):
 
 def count(s):
     return len(s)
+    
